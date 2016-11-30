@@ -20,6 +20,7 @@
 			 
 			int a, b; 
 			 
+			// ((a1 * b2) + (b1 * a2)) / (a2 * b2)
 			a = arr[0] * arr[3] + arr[2] * arr[1]; 
 			b = arr[1] * arr[3]; 
 			 
